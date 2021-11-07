@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: lightseagreen;
+    font-size: larger;
+}
+div{
+    text-align: center;
+    background-color: lightpink;
+    width: 400px;
+    margin-left:400px;
+    padding: 40px;
+    font-size: 22px;
+    margin-top: 70px;
+    border-radius: 25px;
+}
